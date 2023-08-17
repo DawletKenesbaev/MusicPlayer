@@ -1,12 +1,9 @@
-import Views from "./views";
-
+import React from 'react'
 
 function App() {
-
   return (
-    <Views/>
-    // my commit 
-  );
+    <div>Appjkjkjkj</div>
+  )
 }
 
-export default App;
+export default App
