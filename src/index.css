@@ -2,4 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+.cover {
+    width: 190px;
+}
 
